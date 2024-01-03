@@ -1,6 +1,6 @@
 # Library-Management-System
 Library management system created with MERN stack - designed to manage the inventory and reservations of a library. It provides features for adding, updating, and deleting books, making reservations, and handling returns.
-[Demo video](https://drive.google.com/file/d/1TZRlic8MHUXC1YJk_2Tx0pqxXCIL1cUN/view?usp=sharing)
+[Demo video](https://drive.google.com/file/d/1TZRlic8MHUXC1YJk_2Tx0pqxXCIL1cUN/view?usp=sharing).
 
 ## Table of Contents
 - [Features](#features)
